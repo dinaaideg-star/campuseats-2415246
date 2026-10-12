@@ -1,14 +1,14 @@
 const vendors = [
   {
     id: 'my-restaurant',
-    name: 'Your Restaurant Name',
-    location: 'Mahallah ..., Block ...',
-    openHours: '7:00 am - 10:00 pm',
+    name: 'Kafe Mahallah Halimah',
+    location: 'Mahallah Halimah, Ground Floor',
+    openHours: '7:00 am - 9:00 pm',
     isOpen: true,
     menu: [
-      { id: 'my-1', name: 'Dish 1', description: '...', price: 7.5, category: 'Rice', available: true },
-      { id: 'my-2', name: 'Dish 2', description: '...', price: 6, category: 'Noodles', available: true },
-      { id: 'my-3', name: 'Drink 1', description: '...', price: 2.5, category: 'Drinks', available: false },
+      { id: 'my-1', name: 'Nasi Lemak', description: 'Coconut milk rice topped with anchovies, sambal, hard-boiled eggs, peanuts, and cucumber', price: 3.5, category: 'Rice', available: true },
+      { id: 'my-2', name: 'Beef Shepherd Pie', description: 'Savory sauciness mixed with ground beef and veggies', price: 10, category: 'Dish', available: true },
+      { id: 'my-3', name: 'Ice Blended', description: 'Refreshing blended drink', price: 5, category: 'Drinks', available: false },
     ],
   },
   {
