@@ -10,9 +10,9 @@ Answer each question in 1–3 sentences, in your own words.
 
     To distinguish custom components from native HTML elements.
 
-3. What does a fragment <>...</> do, and why not just use a <div>?
+3. What does a fragment <>...</> do, and why not just use a < div > ?
 
-    A fragment groups multiple elements so that a component can return a single parent element without adding extra HTML to the page. Using a <div> would create an extra wrapper element in the HTML structure, which can sometimes break CSS layouts (like Flexbox or CSS Grid containers) and create an unnecessary DOM element.
+    A fragment groups multiple elements so that a component can return a single parent element without adding extra HTML to the page. Using a < div > would create an extra wrapper element in the HTML structure, which can sometimes break CSS layouts (like Flexbox or CSS Grid containers) and create an unnecessary DOM element.
 
 4. Name one benefit of splitting the UI into small components.
 
