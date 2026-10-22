@@ -1,0 +1,64 @@
+[
+  {
+    "id": "2415246-desserts-irdina",
+    "name": "Sweet Treats",
+    "location": "Mahallah Maryam, Ground Floor",
+    "openHours": "9:00 am - 8:00 pm",
+    "isOpen": true,
+    "menu": [
+      { "id": "2415246-m1", "name": "Strawberry Cheesecake", "description": "Creamy baked cheesecake topped with strawberries", "price": 9.00, "category": "Cakes", "available": true, "popular": true },
+      { "id": "2415246-m2", "name": "Chocolate Fudge Cake", "description": "Moist chocolate sponge layered with fudge frosting", "price": 8.00, "category": "Cakes", "available": true, "popular": true },
+      { "id": "2415246-m3", "name": "Matcha Crepe Cake", "description": "Delicate thin layers of matcha crepes with fresh cream", "price": 10.00, "category": "Cakes", "available": false, "popular": true },
+      { "id": "2415246-m4", "name": "Mango Pudding", "description": "Smooth chilled pudding made with fresh mango",             "price": 5.00, "category": "Desserts", "available": true, "popular": false },
+      { "id": "2415246-m5", "name": "Cinnamon Roll", "description": "Warm dough swirled with cinnamon and topped with icing",   "price": 5.50, "category": "Pastries", "available": true, "popular": true },
+      { "id": "2415246-m6", "name": "Butter Croissant", "description": "Flaky, buttery French-style golden pastry",             "price": 4.50, "category": "Pastries", "available": true, "popular": false },
+      { "id": "2415246-m7", "name": "Hot Chocolate", "description": "Rich Belgian chocolate with steamed milk and marshmallows", "price": 6.50, "category": "Drinks", "available": false, "popular": false },
+      { "id": "2415246-m8", "name": "Mango Smoothie", "description": "Blended fresh mangoes with yogurt and honey",             "price": 8.00, "category": "Drinks", "available": true, "popular": false }
+    ]
+  },
+  {
+    "id": "2416464-kopi-dahlia",
+    "name": "Kopi Dahlia",
+    "location": "Mahallah Asma, Block C",
+    "openHours": "8:00 am - 11:00 pm",
+    "isOpen": true,
+    "menu": [
+      { "id": "2416464-m1", "name": "Teh Tarik", "price": 2.5, "category": "Drinks", "popular": true },
+      { "id": "2416464-m2", "name": "Milo Ais", "price": 3.0, "category": "Drinks", "popular": false },
+      { "id": "2416464-m3", "name": "Nasi Lemak", "price": 5.0, "category": "Mains", "popular": true },
+      { "id": "2416464-m4", "name": "Roti Canai", "price": 1.5, "category": "Mains", "popular": false },
+      { "id": "2416464-m5", "name": "Mee Goreng", "price": 6.0, "category": "Mains", "popular": true },
+      { "id": "2416464-m6", "name": "Kuih Lapis", "price": 1.0, "category": "Desserts", "popular": false },
+      { "id": "2416464-m7", "name": "Onde-Onde", "price": 1.2, "category": "Desserts", "popular": true },
+      { "id": "2416464-m8", "name": "Pisang Goreng", "price": 2.0, "category": "Desserts", "popular": false }
+    ]
+  },
+  {
+    "id": "2410350-shawarma-house",
+    "name": "Shawarma House",
+    "location": "Mahallah Halimah, Block PG, Ground Floor",
+    "openHours": "7:00 am - 10:00 pm",
+    "isOpen": true,
+    "menu": [
+      { "id": "2410350-m1", "name": "Chicken Shawarma", "description": "Grilled chicken meat in a flatbread", "price": 6, "category": "Sandwiches", "popular": true },
+      { "id": "2410350-m2", "name": "Beef Shawarma", "description": "Grilled beef meat in a flatbread", "price": 7, "category": "Sandwiches", "popular": true },
+      { "id": "2410350-m3", "name": "Zinger Chicken Wrap", "description": "Crispy chicken wrap with special sauce", "price": 8, "category": "Sandwiches", "popular": true },
+      { "id": "2410350-m4", "name": "Mint Lemonade", "description": "Refreshing mint and lemonade blend", "price": 3, "category": "Drinks", "popular": true },
+      { "id": "2410350-m5", "name": "Yogurt Drink", "description": "Creamy yogurt drink with fruit syrup", "price": 4, "category": "Drinks", "popular": true },
+      { "id": "2410350-m6", "name": "Baklava", "description": "Classic Turkish dessert with nuts and honey", "price": 8, "category": "Desserts", "popular": true },
+      { "id": "2410350-m7", "name": "Kunafa", "description": "Crispy pastry filled with cheese and soaked in sweet syrup", "price": 8, "category": "Desserts", "popular": true },
+      { "id": "2410350-m8", "name": "Middle EasternMilk Pudding", "description": "Smooth milk pudding infused with subtle rosewater, garnished with crushed nuts and a drizzle of honey.", "price": 5, "category": "Desserts", "popular": true }
+    ]
+  },
+  {
+    "id": "kafe-aminah",
+    "name": "Kafe Mahallah Aminah",
+    "location": "Mahallah Aminah, Ground Floor",
+    "openHours": "8:00 am - 9:00 pm",
+    "isOpen": true,
+    "menu": [
+      { "id": "ami-1", "name": "Nasi Ayam Penyet", "description": "Smashed fried chicken with sambal and rice", "price": 9, "category": "Rice", "available": true },
+      { "id": "ami-2", "name": "Air Bandung", "description": "Rose syrup with milk", "price": 3, "category": "Drinks", "available": true }
+    ]
+  }
+]
