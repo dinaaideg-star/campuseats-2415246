@@ -172,7 +172,7 @@ function App() {
               selectedTags={selectedTags} 
               onToggleTag={handleToggleTag} 
             />
-            
+
             {/* B6: Render the Filtered Menu */}
             {filteredMenu.length > 0 ? (
               <MenuList items={filteredMenu} onAdd={handleAddToCart} />
