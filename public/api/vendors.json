@@ -6,7 +6,7 @@
     "openHours": "9:00 am - 8:00 pm",
     "isOpen": true,
     "menu": [
-      { "id": "2415246-m1", "name": "Strawberry Cheesecake", "description": "Creamy baked cheesecake topped with strawberries", "price": 9.00, "category": "Cakes", "available": true, "popular": true, "tags": ["vegetarian", "halal"] },
+      { "id": "2415246-m1", "name": "Strawberryy Cheesecake", "description": "Creamy baked cheesecake topped with strawberries", "price": 9.00, "category": "Cakes", "available": true, "popular": true, "tags": ["vegetarian", "halal"] },
       { "id": "2415246-m2", "name": "Chocolate Fudge Cake", "description": "Moist chocolate sponge layered with fudge frosting", "price": 8.00, "category": "Cakes", "available": true, "popular": true, "tags": ["vegetarian", "halal"] },
       { "id": "2415246-m3", "name": "Matcha Crepe Cake", "description": "Delicate thin layers of matcha crepes with fresh cream", "price": 10.00, "category": "Cakes", "available": false, "popular": true, "tags": ["vegetarian", "halal"] },
       { "id": "2415246-m4", "name": "Mango Pudding", "description": "Smooth chilled pudding made with fresh mango",             "price": 5.00, "category": "Desserts", "available": true, "popular": false, "tags": ["vegetarian", "gluten-free", "halal"] },
