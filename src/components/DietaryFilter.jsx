@@ -1,4 +1,4 @@
-const DIETARY_TAGS = ['Vegetarian', 'Vegan', 'Spicyy', 'Gluten-Free', 'Halal']
+const DIETARY_TAGS = ['Vegetarian', 'Vegan', 'Spicy', 'Gluten-Free', 'Halal']
 
 function DietaryFilter({ selectedTags, onToggleTag }) {
   return (
