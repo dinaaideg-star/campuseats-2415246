@@ -17,20 +17,20 @@
     ]
   },
   {
-    "id": "2416464-kopi-dahlia",
-    "name": "Kopi Dahlia",
-    "location": "Mahallah Halimah, Block C",
-    "openHours": "8:00 am - 11:00 pm",
+    "id": "2416464-dahls-ramen",
+    "name": "Dahl's Japanese Ramen",
+    "location": "Mahallah Asma, Block C",
+    "openHours": "11:00 am - 10:00 pm",
     "isOpen": true,
     "menu": [
-      { "id": "2416464-m1", "name": "Teh Tarik", "price": 2.5, "category": "Drinks", "popular": true, "tags": ["vegetarian", "halal"] },
-      { "id": "2416464-m2", "name": "Milo Ais", "price": 3.0, "category": "Drinks", "popular": false, "tags": ["vegetarian", "halal"] },
-      { "id": "2416464-m3", "name": "Nasi Lemak", "price": 5.0, "category": "Mains", "popular": true, "tags": ["spicy", "halal"] },
-      { "id": "2416464-m4", "name": "Roti Canai", "price": 1.5, "category": "Mains", "popular": false, "tags": ["vegetarian", "halal"] },
-      { "id": "2416464-m5", "name": "Mee Goreng", "price": 6.0, "category": "Mains", "popular": true, "tags": ["spicy", "halal"] },
-      { "id": "2416464-m6", "name": "Kuih Lapis", "price": 1.0, "category": "Desserts", "popular": false, "tags": ["vegetarian", "halal"] },
-      { "id": "2416464-m7", "name": "Matcha Strawberry", "price": 4.5, "category": "Drinks", "popular": true, "tags": ["vegetarian", "halal"] },
-      { "id": "2416464-m8", "name": "Pisang Goreng", "price": 2.0, "category": "Desserts", "popular": false, "tags": ["vegetarian", "halal"] }
+      { "id": "2416464-m1", "name": "Spicy Tonkotsu Ramen", "price": 15.0, "category": "Ramen", "popular": true, "spice": 4, "tags": ["spicy", "halal"] },
+      { "id": "2416464-m2", "name": "Shoyu Ramen", "price": 13.0, "category": "Ramen", "popular": true, "spice": 1, "tags": ["halal"] },
+      { "id": "2416464-m3", "name": "Miso Ramen", "price": 14.0, "category": "Ramen", "popular": false, "spice": 2, "tags": ["halal"] },
+      { "id": "2416464-m4", "name": "Gyoza (5 pcs)", "price": 6.0, "category": "Sides", "popular": true, "spice": 1, "tags": ["halal"] },
+      { "id": "2416464-m5", "name": "Karaage Chicken", "price": 7.5, "category": "Sides", "popular": true, "spice": 1, "tags": ["halal"] },
+      { "id": "2416464-m6", "name": "Matcha Strawberry", "price": 5.5, "category": "Drinks", "popular": true, "spice": 1, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] },
+      { "id": "2416464-m7", "name": "Japanese Lemonade", "price": 4.0, "category": "Drinks", "popular": false, "spice": 1, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] },
+      { "id": "2416464-m8", "name": "Green Tea", "price": 2.0, "category": "Drinks", "popular": false, "spice": 1, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] }
     ]
   },
   {
