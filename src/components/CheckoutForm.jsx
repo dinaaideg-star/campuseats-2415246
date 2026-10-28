@@ -9,10 +9,10 @@ function validate(values) {
   // TODO: mahallah must be chosen
   if (!values.mahallah) errors.mahallah = 'Please select a mahallah.'
   // TODO: pickupTime must be between '07:00' and '22:00' (strings compare fine)
-  if (values.pickupTime) {
-    if (values.pickupTime < '07:00' || values.pickupTime > '22:00') {
-      errors.pickupTime = 'Please select a time between 07:00 and 22:00.'
-    }
+  if (!values.pickupTime) {
+    errors.pickupTime = 'Please select a pickup time.'
+  } else if (values.pickupTime < '07:00' || values.pickupTime > '22:00') {
+    errors.pickupTime = 'Please select a time between 07:00 and 22:00.'
   }
   return errors
 }

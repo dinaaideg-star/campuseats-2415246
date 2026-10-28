@@ -23,14 +23,14 @@
     "openHours": "11:00 am - 10:00 pm",
     "isOpen": true,
     "menu": [
-      { "id": "2416464-m1", "name": "Spicy Tonkotsu Ramen", "price": 15.0, "category": "Ramen", "popular": true, "spice": 4, "tags": ["spicy", "halal"] },
-      { "id": "2416464-m2", "name": "Shoyu Ramen", "price": 13.0, "category": "Ramen", "popular": true, "spice": 1, "tags": ["halal"] },
-      { "id": "2416464-m3", "name": "Miso Ramen", "price": 14.0, "category": "Ramen", "popular": false, "spice": 2, "tags": ["halal"] },
-      { "id": "2416464-m4", "name": "Gyoza (5 pcs)", "price": 6.0, "category": "Sides", "popular": true, "spice": 1, "tags": ["halal"] },
-      { "id": "2416464-m5", "name": "Karaage Chicken", "price": 7.5, "category": "Sides", "popular": true, "spice": 1, "tags": ["halal"] },
-      { "id": "2416464-m6", "name": "Matcha Strawberry", "price": 5.5, "category": "Drinks", "popular": true, "spice": 1, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] },
-      { "id": "2416464-m7", "name": "Japanese Lemonade", "price": 4.0, "category": "Drinks", "popular": false, "spice": 1, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] },
-      { "id": "2416464-m8", "name": "Green Tea", "price": 2.0, "category": "Drinks", "popular": false, "spice": 1, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] }
+      { "id": "2416464-m1", "name": "Spicy Tonkotsu Ramen", "description": "Creamy broth with a spicy chili with braised meat",                     "price": 15.0, "category": "Ramen", "available": true, "popular": true, "spice": 4, "tags": ["spicy", "halal"] },
+      { "id": "2416464-m2", "name": "Shoyu Ramen", "description": "Soy sauce-based broth with tender sliced meat",                                  "price": 13.0, "category": "Ramen", "available": true, "popular": true, "spice": 1, "tags": ["halal"] },
+      { "id": "2416464-m3", "name": "Miso Ramen", "description": "Hearty fermented soybean paste broth with minced meat",                           "price": 14.0, "category": "Ramen", "available": false, "popular": false, "spice": 2, "tags": ["halal"] },
+      { "id": "2416464-m4", "name": "Gyoza (5 pcs)", "description": "Pan-fried Japanese dumplings filled with seasoned minced meat and vegetables", "price": 6.0, "category": "Sides", "available": true, "popular": true, "spice": 1, "tags": ["halal"] },
+      { "id": "2416464-m5", "name": "Karaage Chicken", "description": "Crispy Japanese-style fried chicken marinated in soy sauce, ginger, and garlic", "price": 7.5, "category": "Sides", "available": true, "popular": true, "spice": 1, "tags": ["halal"] },
+      { "id": "2416464-m6", "name": "Matcha Strawberry", "description": "Sweet and refreshing blend of matcha green tea and strawberry milk",       "price": 5.5, "category": "Drinks", "available": true, "popular": true, "spice": 1, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] },
+      { "id": "2416464-m7", "name": "Japanese Lemonade", "description": "Fizzy and tangy sparkling lemonade with a hint of yuzu citrus",            "price": 4.0, "category": "Drinks", "available": false, "popular": false, "spice": 1, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] },
+      { "id": "2416464-m8", "name": "Green Tea", "description": "Traditional hot Japanese green tea, soothing and refreshing",                      "price": 2.0, "category": "Drinks", "available": false, "popular": false, "spice": 1, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] }
     ]
   },
   {
@@ -40,14 +40,14 @@
     "openHours": "7:00 am - 10:00 pm",
     "isOpen": true,
     "menu": [
-      { "id": "2410350-m1", "name": "Chicken Shawarma", "description": "Grilled chicken meat in a flatbread", "price": 6, "category": "Sandwiches", "popular": true, "tags": ["halal"] },
-      { "id": "2410350-m2", "name": "Beef Shawarma", "description": "Grilled beef meat in a flatbread", "price": 7, "category": "Sandwiches", "popular": true, "tags": ["halal"] },
-      { "id": "2410350-m3", "name": "Zinger Chicken Wrap", "description": "Crispy chicken wrap with special sauce", "price": 8, "category": "Sandwiches", "popular": true, "tags": ["spicy", "halal"] },
-      { "id": "2410350-m4", "name": "Mint Lemonade", "description": "Refreshing mint and lemonade blend", "price": 3, "category": "Drinks", "popular": true, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] },
-      { "id": "2410350-m5", "name": "Yogurt Drink", "description": "Creamy yogurt drink with fruit syrup", "price": 4, "category": "Drinks", "popular": true, "tags": ["vegetarian", "gluten-free", "halal"] },
-      { "id": "2410350-m6", "name": "Baklava", "description": "Classic Turkish dessert with nuts and honey", "price": 8, "category": "Desserts", "popular": true, "tags": ["vegetarian", "halal"] },
-      { "id": "2410350-m7", "name": "Kunafa", "description": "Crispy pastry filled with cheese and soaked in sweet syrup", "price": 8, "category": "Desserts", "popular": true, "tags": ["vegetarian", "halal"] },
-      { "id": "2410350-m8", "name": "Middle Eastern Milk Pudding", "description": "Smooth milk pudding infused with subtle rosewater, garnished with crushed nuts and a drizzle of honey.", "price": 5, "category": "Desserts", "popular": true, "tags": ["vegetarian", "gluten-free", "halal"] }
+      { "id": "2410350-m1", "name": "Chicken Shawarma", "description": "Grilled chicken meat in a flatbread", "price": 6, "category": "Sandwiches", "available": true, "popular": true, "tags": ["halal"] },
+      { "id": "2410350-m2", "name": "Beef Shawarma", "description": "Grilled beef meat in a flatbread",         "price": 7, "category": "Sandwiches", "available": true, "popular": true, "tags": ["halal"] },
+      { "id": "2410350-m3", "name": "Zinger Chicken Wrap", "description": "Crispy chicken wrap with special sauce", "price": 8, "category": "Sandwiches", "available": true, "popular": true, "tags": ["spicy", "halal"] },
+      { "id": "2410350-m4", "name": "Mint Lemonade", "description": "Refreshing mint and lemonade blend",           "price": 3, "category": "Drinks", "available": true, "popular": true, "tags": ["vegetarian", "vegan", "gluten-free", "halal"] },
+      { "id": "2410350-m5", "name": "Yogurt Drink", "description": "Creamy yogurt drink with fruit syrup",          "price": 4, "category": "Drinks", "available": true, "popular": true, "tags": ["vegetarian", "gluten-free", "halal"] },
+      { "id": "2410350-m6", "name": "Baklava", "description": "Classic Turkish dessert with nuts and honey",        "price": 8, "category": "Desserts", "available": true, "popular": true, "tags": ["vegetarian", "halal"] },
+      { "id": "2410350-m7", "name": "Kunafa", "description": "Crispy pastry filled with cheese and soaked in sweet syrup", "price": 8, "category": "Desserts", "available": true, "popular": true, "tags": ["vegetarian", "halal"] },
+      { "id": "2410350-m8", "name": "Middle Eastern Milk Pudding", "description": "Smooth milk pudding infused with subtle rosewater, garnished with crushed nuts and a drizzle of honey.", "price": 5, "category": "Desserts", "available": true, "popular": true, "tags": ["vegetarian", "gluten-free", "halal"] }
     ]
   },
   {
